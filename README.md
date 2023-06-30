@@ -1,0 +1,2 @@
+# snet
+private brd bnb
